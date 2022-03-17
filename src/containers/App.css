@@ -1,0 +1,7 @@
+h1 {
+  font-family: "Cyttah";
+  color: dodgerblue;
+  font-style: normal;
+  font-weight: bolder;
+  src: local("Cyttah"), url("Cyttah.otf") format("otf");
+}
